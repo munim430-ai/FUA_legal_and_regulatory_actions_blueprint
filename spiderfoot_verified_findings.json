@@ -1,0 +1,44 @@
+{
+  "scan_target": "hangeul.com.bd",
+  "scan_date": "2026-06-13",
+  "tool": "SpiderFoot 4.0.0",
+  "total_records": 162,
+  "confirmed_accounts_linked_to_agency": {
+    "YouTube_HangeulOfficial": "https://www.youtube.com/@HangeulOfficial",
+    "YouTube_hangeulkorean": "https://www.youtube.com/c/hangeulkorean",
+    "Pinterest": "https://www.pinterest.com/hangeulkorean/",
+    "Tumblr": "https://hangeulkorean.tumblr.com",
+    "Blogger": "http://hangeulkorean.blogspot.com",
+    "Facebook_personal_profile": "https://www.facebook.com/people/Hangeul-Korean-Language-Visa/61558892097074/"
+  },
+  "accounts_NOT_linked_to_agency": [
+    "linktr.ee/hangeul — Korean shopping/camping site (한글샵 쇼핑몰), email: a01036278051@gmail.com",
+    "duolingo.com/profile/hangeul — Korean user '오정록' (O Jeong-rok)",
+    "Freelancer.com/u/hangeul — 404 Not Found (does not exist)",
+    "t.me/hangeul — personal Telegram contact, likely unrelated",
+    "discord.com/hangeul — likely unrelated (common Korean word as username)",
+    "Most gaming/music platform hits — coincidental username matches on word 'hangeul'"
+  ],
+  "co_hosted_sites_on_same_ip": [
+    "ajkalerkhobor.com (BD news site)",
+    "ajkalerkhobor.net (BD news site)",
+    "agpromart.com",
+    "dainiksangbadpratidin.com (BD news site)",
+    "blouseghor.my.id (Indonesian site)",
+    "unique.com.bd",
+    "hifipeople.com"
+  ],
+  "infrastructure": {
+    "ip": "160.250.193.74",
+    "hosting": "Code For Host Inc Ltd / hostever.com (Bangladesh)",
+    "asn": "AS140068",
+    "email_mx": "Google Workspace (ASPMX.L.GOOGLE.COM)",
+    "dns_ns": [
+      "jdns-ch1.hostever.com",
+      "jdns-ch2.hostever.com"
+    ],
+    "google_verification": "SYc1_eGtgxnDPNmj-QuGF62rGuammVwYMQpbgEugNkg",
+    "spf_record": "v=spf1 +a +mx +ip4:160.250.193.74 ~all"
+  },
+  "note": "SpiderFoot 'Account on External Site' results for username 'hangeul' are largely coincidental matches on the Korean alphabet word. Only accounts with verified BD/Korea education consultancy content should be included in legal evidence."
+}
